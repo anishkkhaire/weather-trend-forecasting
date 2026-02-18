@@ -29,6 +29,15 @@ Model performance was measured using:
 MAE ≈ 4.13 °C  
 RMSE ≈ 5.42 °C  
 
+## Advanced Analysis (Optional)
+
+Additional analyses were performed to extend the basic assessment:
+- Anomaly detection using Isolation Forest
+- Seasonal decomposition for climate trend analysis
+- Correlation analysis between air quality (PM2.5) and temperature
+- Feature importance using Random Forest
+- Country-level geographical temperature comparison
+
 ## Conclusion  
 The model was able to capture general temperature trends and provide reasonable short-term forecasts.  
 This project demonstrates basic data cleaning, exploratory analysis, time-series forecasting, and evaluation.
